@@ -208,6 +208,8 @@ hr.small {
 }
 
 .img-portfolio {
+    height: 228px;
+    width:455px;
     margin: 0 auto;
 }
 
